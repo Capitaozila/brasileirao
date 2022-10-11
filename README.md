@@ -1,2 +1,2 @@
 # brasileirao
-uma tabela do brasileirao em css e html 
+Uma tabela do brasileirao em css e html e tabelas.

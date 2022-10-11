@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@500&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Anek Malayalam', sans-serif;
+    background: #232323;
+}
+
+table {
+    width: 100vw;
+    background-color: #10502f;
+    text-align: center;
+    color: white;
+    border: 2px solid black;
+}
+
+td {
+    border: 2px solid white;
+}
+
+.nav-conteudo-lateral {
+    width:200px;
+}
