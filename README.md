@@ -7,7 +7,7 @@
 </div>
 <div align="center">
 <h1 align="center" color="white">Tabela do brasileirão</h2>
-<p">Uma tabela do brasileirao em css e html e tabelas.</p>
+<p">Uma tabela do brasileirao em css, html e tabelas.</p>
 </div>
 
 
