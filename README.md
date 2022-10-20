@@ -12,5 +12,5 @@
 
 
 <span align="center">
-<p>Para abrir o site basta clicar <a href="https://capitaozila.github.io/brasileirao/">aqui</a></p>
+<p>Para abrir o site basta clicar <a href="https://capitaozila.github.io/brasileirao/index.html">aqui</a></p>
 <qspan>
