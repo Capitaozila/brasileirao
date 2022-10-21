@@ -11,29 +11,55 @@ body {
   background: #f8f9fa;
 }
 
-table {
-  width: 100vw;
+.header {
+  font-size: 0.75em;
   background-color: #10502f;
-  text-align: center;
   color: white;
   box-shadow: 0 2px 4px #888888;
   border-collapse: collapse;
 }
 
+.tabela-brasileirao {
+  border: 1px solid #e9eaeb;
+  border-top: none;
+  border-bottom: none;
+  width: 40vw;
+  margin-left: 30%;
+}
+
+table {
+  text-align: center;
+  width: 100vw;
+}
+
 td {
   height: 50px;
-  width: 150px;
+  width: 104px;
+  color: #9db7a9;
 }
 
 .nav-conteudo-lateral {
   width: 200px;
 }
 
-#header td {
-  height: 80px;
+#logo td {
+  height: 48px;
+  padding-top: 4px;
+}
+
+#tabela-brasileirao-header {
+  background-color: #f1f3f4;
+  text-align: left;
+  color: #70758d;
+  padding: 15px;
+  padding-left: 20px;
 }
 
 .nav-destacado {
-  background-color: #0e482a;
   border-bottom: #f8f9fa 3px solid;
+  color: white;
+}
+
+.nav-destacado:hover {
+  background-color: #0e482a;
 }
