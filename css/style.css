@@ -29,6 +29,14 @@ body {
   border-collapse: collapse;
 }
 
+.tabela-brasileirao th {
+  border: 1px solid black;
+}
+
+.tabela-brasileirao td {
+  border: 1px solid black;
+}
+
 table {
   text-align: center;
   width: 100vw;
