@@ -4,6 +4,7 @@
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  text-decoration: none;
 }
 
 body {
@@ -25,6 +26,7 @@ body {
   border-bottom: none;
   width: 40vw;
   margin-left: 30%;
+  border-collapse: collapse;
 }
 
 table {
@@ -38,6 +40,15 @@ td {
   color: #9db7a9;
 }
 
+a {
+  color: #9db7a9;
+  text-decoration: none;
+}
+
+a:visited {
+  color: #9db7a9;
+  text-decoration: none;
+}
 .nav-conteudo-lateral {
   width: 200px;
 }
@@ -53,6 +64,7 @@ td {
   color: #70758d;
   padding: 15px;
   padding-left: 20px;
+  font-size: 00.75em;
 }
 
 .nav-destacado {
@@ -62,4 +74,9 @@ td {
 
 .nav-destacado:hover {
   background-color: #0e482a;
+}
+
+.ano {
+  font-weight: 600;
+  color: #4285f4;
 }
