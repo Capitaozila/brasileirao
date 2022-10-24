@@ -88,3 +88,27 @@ a:visited {
   font-weight: 600;
   color: #4285f4;
 }
+
+.barrinha-fase-de-grupos-cl {
+  width: 3px;
+  height: 40px;
+  background-color: #4285f4;
+}
+
+.barrinha-qualificatoria {
+  width: 3px;
+  height: 40px;
+  background-color: #f4b400;
+}
+
+.barrinha-fase-de-grupos-csa {
+  width: 3px;
+  height: 40px;
+  background-color: green;
+}
+
+.barrinha-rebaixamento {
+  width: 3px;
+  height: 40px;
+  background-color: #db4437;
+}
