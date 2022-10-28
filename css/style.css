@@ -22,7 +22,7 @@ body {
 }
 
 .tabela-brasileirao {
-  border: 1px solid #e9eaeb;
+  border: 1px solid #e0e0e0;
   border-top: none;
   border-bottom: none;
   width: 40vw;
@@ -31,9 +31,24 @@ body {
 }
 
 .tabela-brasileirao th {
+  border-top: 1px solid #e0e0e0;
+  font-weight: 100;
+  color: #70758d;
+  padding: 4px;
+  height: 35px;
 }
 
 .tabela-brasileirao td {
+  border-top: 1px solid #dadec0;
+  font-weight: 100;
+  color: black;
+  padding: 4px;
+  height: 35px;
+  font-size: 1.2em;
+}
+
+.tabela-brasileirao img {
+  width: 25px;
 }
 
 table {
@@ -43,7 +58,6 @@ table {
 
 td {
   height: 50px;
-  width: 104px;
   color: #9db7a9;
 }
 
@@ -102,4 +116,13 @@ a:visited {
 
 .barrinha-rebaixamento {
   background-color: #db4437;
+}
+
+.tabela-colunas-bordas {
+  border-top: none !important ;
+}
+
+.titulo-clube {
+  width: 50px;
+  text-align: left;
 }
