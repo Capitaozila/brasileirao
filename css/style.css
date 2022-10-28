@@ -10,6 +10,7 @@
 body {
   font-family: "Anek Malayalam", sans-serif;
   background: #f8f9fa;
+  overflow-x: hidden;
 }
 
 .header {
@@ -30,11 +31,9 @@ body {
 }
 
 .tabela-brasileirao th {
-  border: 1px solid black;
 }
 
 .tabela-brasileirao td {
-  border: 1px solid black;
 }
 
 table {
