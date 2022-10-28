@@ -126,3 +126,11 @@ a:visited {
   width: 50px;
   text-align: left;
 }
+
+.titulo-ultimas-cinco {
+  width: 20%;
+}
+
+.titulo-ultimas-cinco img {
+  width: 17px;
+}
