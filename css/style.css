@@ -25,8 +25,8 @@ body {
   border: 1px solid #e0e0e0;
   border-top: none;
   border-bottom: none;
-  width: 40vw;
-  margin-left: 30%;
+  width: 60vw;
+  margin-left: 20%;
   border-collapse: collapse;
 }
 
@@ -43,7 +43,7 @@ body {
   font-weight: 100;
   color: black;
   padding: 4px;
-  height: 35px;
+  height: 0;
   font-size: 1.2em;
 }
 
@@ -123,7 +123,6 @@ a:visited {
 }
 
 .titulo-clube {
-  width: 50px;
   text-align: left;
 }
 
