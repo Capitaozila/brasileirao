@@ -103,19 +103,19 @@ a:visited {
 }
 
 .barrinha-fase-de-grupos-cl {
-  background-color: #4285f4;
+  border-left: 5px solid #4285f4;
 }
 
 .barrinha-qualificatoria {
-  background-color: #f4b400;
+  border-left: 5px solid #f4b400;
 }
 
 .barrinha-fase-de-grupos-csa {
-  background-color: green;
+  border-left: 5px solid green;
 }
 
 .barrinha-rebaixamento {
-  background-color: #db4437;
+  border-left: 5px solid #db4437;
 }
 
 .tabela-colunas-bordas {
