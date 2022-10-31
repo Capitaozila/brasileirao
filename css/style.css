@@ -71,12 +71,17 @@ a:visited {
   text-decoration: none;
 }
 .nav-conteudo-lateral {
-  width: 200px;
+  width: 300px;
 }
 
 #logo td {
   height: 48px;
-  padding-top: 4px;
+  padding-top: 10px;
+}
+
+#logo img {
+  position: relative;
+  left: -3%;
 }
 
 #tabela-brasileirao-header {
