@@ -180,3 +180,81 @@ a:visited {
   height: 3px;
   width: 50%;
 }
+
+
+/* media-care */
+
+@media screen and (max-width: 375px){
+  #logo img {
+    width: 90px;
+    left: -30px;
+  }
+
+  .nav-conteudo-lateral {
+    width: 10px;
+  }
+
+  .header {
+    width: 100%;
+    font-size: 1.1em;
+  }
+
+  .tabela-brasileirao {
+    margin-left: 1%;
+    height: 0;
+  }
+
+  .tabela-brasileirao th {
+    font-size: 1.2em;
+  }
+
+  .legenda table {
+    width: 100%;
+    margin: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #e9eaeb;
+    border-radius: 3px;
+    padding: 15px;
+    text-align: left;
+    background-color: #f8f9fa;
+  }
+}
+
+@media screen and (max-width: 768px){
+  #logo img {
+    width: 90px;
+    left: -30px;
+  }
+
+  .nav-conteudo-lateral {
+    width: 40px;
+  }
+
+  .header {
+    width: 100%;
+    font-size: 1.1em;
+  }
+
+  .tabela-brasileirao {
+    margin-left: 1%;
+    height: 0;
+  }
+
+  .tabela-brasileirao th {
+    font-size: 1.2em;
+  }
+
+  .legenda table {
+    width: 100%;
+    margin: 5px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #e9eaeb;
+    border-radius: 3px;
+    padding: 15px;
+    text-align: left;
+    background-color: #f8f9fa;
+  }
+}
